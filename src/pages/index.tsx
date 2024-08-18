@@ -489,7 +489,7 @@ export default function Home() {
                                 studioName: "QuantumGlyph Studio",
                                 batch: "6",
                                 screenshotRefs: [
-                                    "/relics-1.png",
+                                    "/San.png",
                                     "/relics-2.png",
                                     "/relics-3.png",
                                     "/relics-4.png",
